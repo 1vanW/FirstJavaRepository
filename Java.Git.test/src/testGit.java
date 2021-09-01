@@ -13,7 +13,7 @@ public class testGit {
 
         String line = "Line from user2";
 
-
+        String user = "Еще одна строка user2";
 
 
 
