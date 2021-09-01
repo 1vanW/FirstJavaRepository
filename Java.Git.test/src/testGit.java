@@ -15,7 +15,7 @@ public class testGit {
 
         String user = "Еще одна строка user2";
 
-
+        String czr = "Good evening (branch-master)";
 
 
     }
