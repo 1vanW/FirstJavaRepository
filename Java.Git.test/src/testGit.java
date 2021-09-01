@@ -15,7 +15,7 @@ public class testGit {
 
         String user = "Еще одна строка user2";
 
-
+        String user2 = "Good morning (add-feature-user2)";
 
 
     }
