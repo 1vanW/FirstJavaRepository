@@ -1,2 +1,3 @@
-public class gitTest2 {
+public class gitTest2
+{
 }
