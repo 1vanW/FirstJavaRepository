@@ -8,6 +8,8 @@ public class testGit {
 
         x = x + 1;
 
+        System.out.println(str + " " + str +" " + x );
+
 
 
 
